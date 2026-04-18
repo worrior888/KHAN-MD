@@ -17,7 +17,7 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: SHEHZADA-MD)",
       "required": false,
       "value": "KHAN-MD"
     },
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 923012862907)",
       "required": false,
-      "value": "923427582273"
+      "value": "923012862907"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: SH3HZ9D4)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "SHEHZADA"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/6zd0ru.jpg"
+      "value": "https://i.ibb.co/Y7tY7JgL/FB-IMG-1766852755925.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by SH3HZ9D4*"
     }
   },
   "buildpacks": [
